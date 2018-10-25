@@ -1,0 +1,7 @@
+kafka.brokers: localhost:9092
+
+# Name of the Kafka topic
+kafka.topic: "customer-sales-nrt"
+
+# earliest or latest
+kafka.offset: latest
